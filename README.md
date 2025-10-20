@@ -105,12 +105,6 @@ Automated report generation for teachers.
 └── data/
     └── student_data.csv
 
-🧑‍💻 Author
-
-Bhargav
-Student | Data Enthusiast | Developer
-GitHub Profile
-
 📚 References
 
 Scikit-learn Documentation: https://scikit-learn.org/
